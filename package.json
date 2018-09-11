@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "dependencies": {
     "css": "^2.2.4",
-    "npm": "^6.4.1"
+    "npm": "^6.4.1",
+    "main": "script.js",
+    "scripts": {
+      "start": "node server.js"
+    }
   }
 }
